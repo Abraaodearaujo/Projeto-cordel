@@ -77,7 +77,7 @@ section.imagen {
 
 section.imagen > p {
     background-color: rgba(0, 0, 0, 0.456);
-    width: 400px;
+    width: 60vw;
     text-shadow: 2px 2px 0px black;
 }
 
